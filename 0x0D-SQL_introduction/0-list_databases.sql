@@ -1,2 +1,2 @@
 --try coments in sql
-SELECT *
+SHOW DATABASE;
